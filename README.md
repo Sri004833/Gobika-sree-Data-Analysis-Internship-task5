@@ -1,7 +1,7 @@
 # 📊 Data Analyst Internship Portfolio – Power BI Capstone Project
 
 ## 👋 Introduction
-Hi, I’m **Srikanth V**, a Data Analyst Intern.  
+Hi, I’m **Gobika Sree B**, a Data Analyst Intern.  
 This repository is my **master portfolio**, showcasing an end-to-end data analytics project completed during my internship.
 
 The project demonstrates my ability to work with raw data, perform exploratory analysis, build interactive dashboards, and derive business insights.
